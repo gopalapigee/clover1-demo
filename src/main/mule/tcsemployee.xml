@@ -169,6 +169,12 @@ output application/json
     EmpName: "thuluva",
     office: "solinganalluru",
     salary: 600000
+  },
+ {
+    tcsID: 3333,
+    EmpName: "thuluva",
+    office: "solinganalluru",
+    salary: 600000
   }
 ] as Array {encoding: "UTF-8", mediaType: "application/json"}]]></ee:set-payload>
             </ee:message>
